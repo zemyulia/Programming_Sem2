@@ -6,7 +6,7 @@ namespace Task009
     {
         static void Main(string[] args)
         {
-            int Number = new Random().Next(10,99);
+            int Number = new Random().Next(10,100);
             Console.Write("Случайное число: ");
             Console.WriteLine(Number);
             
