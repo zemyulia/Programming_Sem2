@@ -15,11 +15,11 @@ namespace Task009
 
             if (x>y) 
             {
-                Console.WriteLine(x);
+                Console.WriteLine($"Цифра {x} - наибольшая.");
             }
             else
             {
-                Console.WriteLine(y);
+                Console.WriteLine($"Цифра {y} - наибольшая.");
             }
         }
     }
