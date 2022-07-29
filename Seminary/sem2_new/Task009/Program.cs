@@ -7,8 +7,8 @@ namespace Task009
         static void Main(string[] args)
         {
             int Number = new Random().Next(10,100);
-            Console.Write("Случайное число: ");
-            Console.WriteLine(Number);
+            Console.WriteLine($"Случайное число: { Number }");
+            
             
             int x = Number%10;
             int y = Number/10;
