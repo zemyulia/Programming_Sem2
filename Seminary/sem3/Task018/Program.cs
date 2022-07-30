@@ -6,6 +6,9 @@ namespace Task018
     {
         static void Main(string[] args)
         {
+
+
+            
             string[] ranges = {
                 "Для первой четверти координаты X>0, Y>0.",  //решение в классе
                 "Для второй четверти координаты X<0, Y>0.",
