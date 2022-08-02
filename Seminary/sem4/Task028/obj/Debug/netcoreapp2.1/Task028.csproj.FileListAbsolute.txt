@@ -1,0 +1,11 @@
+/Users/yuliiamelnik/Documents/GeekBrains/Developing/Seminary/sem4/Task028/obj/Debug/netcoreapp2.1/Task028.csprojAssemblyReference.cache
+/Users/yuliiamelnik/Documents/GeekBrains/Developing/Seminary/sem4/Task028/obj/Debug/netcoreapp2.1/Task028.csproj.CoreCompileInputs.cache
+/Users/yuliiamelnik/Documents/GeekBrains/Developing/Seminary/sem4/Task028/obj/Debug/netcoreapp2.1/Task028.AssemblyInfoInputs.cache
+/Users/yuliiamelnik/Documents/GeekBrains/Developing/Seminary/sem4/Task028/obj/Debug/netcoreapp2.1/Task028.AssemblyInfo.cs
+/Users/yuliiamelnik/Documents/GeekBrains/Developing/Seminary/sem4/Task028/bin/Debug/netcoreapp2.1/Task028.deps.json
+/Users/yuliiamelnik/Documents/GeekBrains/Developing/Seminary/sem4/Task028/bin/Debug/netcoreapp2.1/Task028.runtimeconfig.json
+/Users/yuliiamelnik/Documents/GeekBrains/Developing/Seminary/sem4/Task028/bin/Debug/netcoreapp2.1/Task028.runtimeconfig.dev.json
+/Users/yuliiamelnik/Documents/GeekBrains/Developing/Seminary/sem4/Task028/bin/Debug/netcoreapp2.1/Task028.dll
+/Users/yuliiamelnik/Documents/GeekBrains/Developing/Seminary/sem4/Task028/bin/Debug/netcoreapp2.1/Task028.pdb
+/Users/yuliiamelnik/Documents/GeekBrains/Developing/Seminary/sem4/Task028/obj/Debug/netcoreapp2.1/Task028.dll
+/Users/yuliiamelnik/Documents/GeekBrains/Developing/Seminary/sem4/Task028/obj/Debug/netcoreapp2.1/Task028.pdb
