@@ -12,21 +12,25 @@ namespace Task025
             // 2, 4 -> 16
             // Использование Math.Pow() и аналогов = Ban :)
             
-            
-            Console.WriteLine("Введите число А: ");
-            int NumA = Convert.ToInt32(Console.ReadLine());
-
-            Console.WriteLine("Введите число B: ");
-            int ExpB = Convert.ToInt32(Console.ReadLine());
-
-            int AExpB = 1;
-
-            for (int i = 0; i < ExpB; i++)
+            void Exponention()
             {
-                AExpB = AExpB * NumA;
+                Console.WriteLine("Введите число А: ");
+                int NumA = Convert.ToInt32(Console.ReadLine());
+
+                Console.WriteLine("Введите число B: ");
+                int ExpB = Convert.ToInt32(Console.ReadLine());
+
+                int AExpB = 1;
+
+                for (int i = 0; i < ExpB; i++)
+                {
+                    AExpB = AExpB * NumA;
+                }
+
+                Console.WriteLine($"А в степени В = {AExpB}");
             }
 
-            Console.WriteLine($"А в степени В = {AExpB}");
+            Exponention();
         }
     }
 }
