@@ -10,16 +10,17 @@ namespace Task045
         // Задача 45: Напишите программу, которая будет создавать копию заданного массива 
         // с помощью поэлементного копирования.
 
+        int[] Array1 = {1,2,3,4,5,6};
+
         int[] CopyArrayMethod(int[] Numbers) 
-        {
-        for (int i = 0; i < Numbers.Length; i++) 
-            {
-                int[] NewArray = new int[Numbers.Length]; 
+        {   int[] NewArray = new int[Numbers.Length];
+            for (int i = 0; i < Numbers.Length; i++) 
+            { 
                 NewArray[i] = Numbers[i];
             }
-        return NewArray; 
+            return NewArray; 
         }
-        Console.WriteLine(‘[‘ + {String.Join(“, CopyArrayMethod(Array1))} + ‘]’);
+        Console.WriteLine('[' + String.Join(", ",CopyArrayMethod(Array1)) + ']');
 
         }
     }
