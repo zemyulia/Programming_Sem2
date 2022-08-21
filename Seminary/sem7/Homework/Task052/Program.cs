@@ -40,17 +40,17 @@ namespace Task052
             }
 
             void PrintArray(int[,] array1)
-           {
-            for(int i = 0; i<array1.GetLength(0); i++)
-                {
-                    for(int j = 0; j<array1.GetLength(1); j++)
+            {
+                for(int i = 0; i<array1.GetLength(0); i++)
                     {
-                        Console.Write($"{array1[i,j]} ");
+                        for(int j = 0; j<array1.GetLength(1); j++)
+                        {
+                            Console.Write($"{array1[i,j]} ");
+                        }
+                        Console.WriteLine( );
                     }
-                    Console.WriteLine( );
-                }
-            Console.WriteLine();
-           }
+                Console.WriteLine();
+            }
 
             void AverageByColumns(int[,] arr)
             {   

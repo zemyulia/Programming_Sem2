@@ -63,7 +63,7 @@ namespace Task050
 
             void SearchElementOfMatrix(int[,] array1, int row, int column)
             {
-                if(row<array1.GetLength(0) && column<array1.GetLength(1))
+                if(row<array1.GetLength(0) && column<array1.GetLength(1) && row>=0 && column>=0)
                 {
                     Console.WriteLine(array1[row, column]);
                 }
